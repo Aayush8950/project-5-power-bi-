@@ -1,0 +1,52 @@
+This file Contains how i(Aayush) Solve this problem step by step----
+
+Index 
+a) problem Statement 
+b) From where i gatherted the data 
+C) How i solve the problem 
+
+                  A)problem Statement 
+Let's start with Problem Statement 
+Collect and analyze data of various competitive brands in the Ed-Tech industry and draw a comparison between them based. Some of the metrics that you can base your comparison on are as follows:
+
+Revenue Model
+Income
+Sales
+Product and Services offered
+Popularity
+Quality of content delivered
+Customer Satisfaction
+Placement Rate
+Return on Investment
+Marketing strategies
+Number of customers 
+Net Worth
+Customer reviews
+
+
+             B)From where i gatherted the data 
+
+I gathered the data from the google dataset search engine 
+
+
+            C) How i solve the problem 
+ first of all Read the problem carefully then i Follow the industry approach to solve the problem that is DDPP 
+
+Descriptive Analytics= What is happening in the business?			
+
+		
+
+Diagnostics= Why it is happening?
+ 
+this part is covered in power bi file			
+
+
+Predictive analytics =What will happen in the business?			
+
+
+
+Prescriptive analytics= So what? Buisness Recommendations, Actions
+
+
+			
+				
