@@ -1,5 +1,6 @@
 This file Contains how i(Aayush) Solve this problem step by step----
-
+Plese watch this video to understand better - 
+https://drive.google.com/folderview?id=1SKL8EuR3f3LjSOjTbXHOpyjKHlGS_6Bl
 Index 
 a) problem Statement 
 b) From where i gatherted the data 
